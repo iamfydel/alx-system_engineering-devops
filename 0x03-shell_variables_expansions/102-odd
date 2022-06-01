@@ -1,0 +1,3 @@
+Task 102
+#!/bin/bash
+paste - - | cut -f 1
